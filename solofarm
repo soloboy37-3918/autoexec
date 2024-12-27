@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nivex123456/main/refs/heads/main/Loader.lua"))()
+loadstring(request({Url='https://raw.githubusercontent.com/SergiuPro1222/DendriteESP/main/SouthCotton',Method='GET'}).Body)();
